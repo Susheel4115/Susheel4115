@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development program
 - 🌱 I’m currently learning JavaScript,Nodejs,ecma script,solidity.
 - 💞️ I’m looking to collaborate on Freelancing with webstore design with 2Face Auth and Crytpcurrency enbled payment methods!
-- 📫 How to reach me contact me in instagram @susheel.scripts,gmail: <a href="gopisusheelkumar@gmail.com"/>
+- 📫 How to reach me contact me in instagram @susheel.scripts,gmail - gopisusheelkumar@gmail.com
 
 
 <div id="header" align="center">
