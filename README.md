@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Susheel Kumar...
 - 👀 I’m interested in fullstack development program
 - 🌱 I’m currently learning JavaScript,Nodejs,ecma script,solidity.
-- 💞️ I’m looking to collaborate on Freelancing with webstore design with 2Face Auth and Crytpcurrency enbled payment methods!
+- 💞️ I’m looking to collaborate with students,freelancers and to learn new things daily basis.
 - 📫 How to reach me contact me in instagram @susheel.scripts,gmail - gopisusheelkumar@gmail.com
 
 
@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif" width="600" height="300"/>
 </div>
+I am a Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 <!---
 Susheel4115/Susheel4115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
