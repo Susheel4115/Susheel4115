@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development program
 - 🌱 I’m currently learning JavaScript,Nodejs,ecma script,solidity.
 - 💞️ I’m looking to collaborate with students,freelancers and to learn new things daily basis.
-- 📫 How to reach me contact me in instagram @susheel.scripts,gmail - gopisusheelkumar@gmail.com
+- 📫 How to reach me contact me in instagram @susheel.scripts :: gmail - gopisusheelkumar@gmail.com
 
 
 <div id="header" align="center">
