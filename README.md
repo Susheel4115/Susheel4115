@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susheel Kumar...
 - 👀 I’m interested in fullstack development program
-- 🌱 I’m currently learning JavaScript,Nodejs,ecma script,solidity.
+- 🌱 I’m currently learning Node,redux,socket programming.
 - 💞️ I’m looking to collaborate with students,freelancers and to learn new things daily basis.
 - 📫 How to reach me contact me in instagram @susheel.scripts :: gmail - gopisusheelkumar@gmail.com
 
@@ -34,7 +34,7 @@
 ### :woman_technologist: About Me :
 I am a Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working in IT and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
