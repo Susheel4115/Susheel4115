@@ -23,9 +23,9 @@
   hey there
   
 </h1>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
