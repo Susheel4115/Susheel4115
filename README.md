@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Susheel Kumar...
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
 - 👀 I’m interested in fullstack development program
 - 🌱 I’m currently learning Angular and socket programming.
 - 💞️ I’m looking forward to collaborate with students,freelancers and to learn new things daily.
@@ -19,10 +20,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Susheel4115&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  
-</h1>
+
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif" width="600" height="300"/>
 </div> -->
