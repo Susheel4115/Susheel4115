@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susheel Kumar...
 - 👀 I’m interested in fullstack development program
-- 🌱 I’m currently learning Angular,socket programming.
+- 🌱 I’m currently learning Angulara and socket programming.
 - 💞️ I’m looking forward to collaborate with students,freelancers and to learn new things daily.
 - 📫 How to reach me - instagram @susheel.scripts # or gmail - gopisusheelkumar@gmail.com
 
