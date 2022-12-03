@@ -5,7 +5,7 @@
 - 💞️ I’m looking forward to collaborate with students,freelancers and to learn new things daily.
 - 📫 How to reach me - instagram @susheel.scripts # or gmail - gopisusheelkumar@gmail.com
 
-
+<a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=jgy" width="400" alt="Susheel Kumar's Dev Card"/></a>
   
 
 <div id="badges">
