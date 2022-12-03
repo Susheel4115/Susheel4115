@@ -1,63 +1,74 @@
-### <samp>&gt; Hi there, I'm <a href="https://susheel-personal-portfolio.netlify.app/" target="_blank">Susheel Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-- 👀 I’m interested in fullstack development program
-- 🌱 I’m currently learning Angular and socket programming.
-- 💞️ I’m looking forward to collaborate with students,freelancers and to learn new things daily.
-- 📫 How to reach me - instagram @susheel.scripts # or gmail - gopisusheelkumar@gmail.com
 
-<a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=jgy" width="400" alt="Susheel Kumar's Dev Card"/></a>
-  
+<h1 align="center">
+  Welcome to Susheel Kumar profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mr-susheel-kumar-2b4b46187/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/github/followers/Susheel4115" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Susheel4115">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Susheel4115&style=flat-square&color=blue" alt=""/>
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif" width="600" height="300"/>
-</div> -->
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
-### :woman_technologist: About Me :
-I am a Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Sukhseerat+Kaur;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+</p>
 
-- :telescope: I’m working in IT and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I used to solve problems on leetcode and read tech articles.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukhseerat-kaur-34b935182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--   <a href="https://leetcode.com/sukhseerat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> -->
+<!--   <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+</p>
+<br>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mr-susheel-kumar-2b4b46187/)
----
+I'm a pre-final year undergraduate student majoring in Computer Science with an interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
+<br>
+<br>
+<br>
+<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<!---
-Susheel4115/Susheel4115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working on ReactJS <br>
+- 🌱 I’m currently learning MERN stack <br>
+- 👯 I’m looking to collaborate on Frontend Projects <br>
+- 📫 How to reach me: sukhseeratkaur26@gmail.com <br>
+
+<br><br>
+
+## 🛠 Languages, Technologies And Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+<br>
+<h2>😄 Have Fun </h2>
+<br>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+## 🏆 Github Stats
+<p align="left">
+<a href="https://github.com/Sukhseerat-Kaur/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Sukhseerat-Kaur&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
+<a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Sukhseerat-Kaur&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
+</p>
+<a href="https://github.com/Sukhseerat-Kaur/github-readme-activity-graph"><img alt="Sukhseerat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhseerat-Kaur&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
+
+<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sukhseerat-Kaur">
+</p>
