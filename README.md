@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=808080&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Susheel+Kumar;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
+<a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=wqv" width="400" alt="Susheel Kumar's Dev Card"/></a>
 
 
 <p align="center">
