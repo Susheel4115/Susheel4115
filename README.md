@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Susheel+Kumar;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?color=808080&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Susheel+Kumar;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
 
@@ -21,7 +21,7 @@
 </p>
 <br>
 
-I'm a pre-final year undergraduate student majoring in Computer Science with an interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
+I'm a graduated student majoring in Computer Science with an interest in Web Development and Problem Solving. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in HTML, CSS, JavaScript, ReactJS, Redux, TailwindCSS, Bootstrap etc. and currently I am exploring Backend using NodeJS.
 <br>
 <br>
 <br>
