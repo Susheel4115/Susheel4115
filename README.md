@@ -13,7 +13,7 @@
 </p>
 
 <a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=wqv" width="400" alt="Susheel Kumar's Dev Card"/></a>
-
+<a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=fpx" width="400" alt="Susheel Kumar's Dev Card"/></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/susheel-kumar-2b4b46187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
