@@ -76,6 +76,8 @@ I'm a graduated student majoring in Computer Science with an interest in Web Dev
   <img src="https://komarev.com/ghpvc/?username=Susheel4115"/>
 </p>
 
+<br><br>
+
 ## 👩‍💻🧛‍♀️LEET CODE
   <a href="https://ibb.co/rsyncZt"><img src="https://i.ibb.co/rsyncZt/removebg-preview.png" alt="removebg-preview" border="0"></a>
 
