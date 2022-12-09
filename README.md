@@ -15,7 +15,6 @@
 <div align="center">
 <a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=wqv" width="400" alt="Susheel Kumar's Dev Card"/></a>
   
-  <a href="https://ibb.co/rsyncZt"><img src="https://i.ibb.co/rsyncZt/removebg-preview.png" alt="removebg-preview" border="0"></a>
   
 </div>
 
@@ -76,3 +75,7 @@ I'm a graduated student majoring in Computer Science with an interest in Web Dev
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Susheel4115"/>
 </p>
+
+## 👩‍💻🧛‍♀️LEET CODE
+  <a href="https://ibb.co/rsyncZt"><img src="https://i.ibb.co/rsyncZt/removebg-preview.png" alt="removebg-preview" border="0"></a>
+
