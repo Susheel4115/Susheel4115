@@ -13,8 +13,7 @@
 </p>
 
 <div align="center">
-<a href="https://app.daily.dev/jackjones11"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=wqv" width="400" alt="Susheel Kumar's Dev Card"/></a>
-  
+<a href="https://app.daily.dev/vue_clan"><img src="https://api.daily.dev/devcards/32b2ac521ed8444aac9f7747af8ad65c.png?r=99j" width="400" alt="Susheel Kumar's Dev Card"/></a>  
   
 </div>
 
