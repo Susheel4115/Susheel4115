@@ -80,4 +80,5 @@ I'm a graduated student majoring in Computer Science with an interest in Web Dev
 
 ## 👩‍💻🧛‍♀️LEET CODE
   <a href="https://ibb.co/rsyncZt"><img src="https://i.ibb.co/rsyncZt/removebg-preview.png" alt="removebg-preview" border="0"></a>
+  <a href="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif"><img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="removebg-preview" border="0"></a>
 
