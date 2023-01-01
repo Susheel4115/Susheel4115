@@ -77,6 +77,8 @@ I'm a graduated student majoring in Computer Science with an interest in Web Dev
 </p>
 
 <br><br>
+<br><br>
+
 
 ## 👩‍💻🧛‍♀️LEET CODE
   <a href="https://ibb.co/rsyncZt"><img src="https://i.ibb.co/rsyncZt/removebg-preview.png" alt="removebg-preview" border="0"></a>
