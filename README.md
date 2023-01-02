@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  Welcome to Susheel Kumar profile!
+  Welcome to Susheel Kumar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
