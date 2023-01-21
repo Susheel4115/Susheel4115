@@ -3,10 +3,10 @@
 <h1 align="center">
   Welcome to Susheel Kumar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="susheel-kumar-2b4b46187" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/susheel-kumar-2b4b46187?trk=profile-badge"></a></div>
 </h1>
 
-<script diff src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="susheel-kumar-2b4b46187" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/susheel-kumar-2b4b46187?trk=profile-badge">Susheel kumar</a></div>
+
               
 
 <p align="center">
