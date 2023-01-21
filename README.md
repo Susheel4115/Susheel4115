@@ -5,8 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-
-
+<script diff src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="susheel-kumar-2b4b46187" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/susheel-kumar-2b4b46187?trk=profile-badge">Susheel kumar</a></div>
+              
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=800080&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Susheel+Kumar;An+Enthusiastic+Learner;A+self-made+Developer;A+Problem+Solver">
