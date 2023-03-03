@@ -80,7 +80,7 @@ I'm a graduated student majoring in Computer Science with an interest in Web Dev
 <br><br>
 
 ## 👩‍💻🧛‍♀️LEET CODE
-<div align="center" margin-top="2%">
+<div align="center" margin-top="2%" padding="10%">
 <img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" alt="removebg-preview" border="0" width="100px" height="100px"/>
  <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="removebg-preview" border="0" width="100px" height="100px" />
   <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" alt="removebg-preview" border="0" width="100px" height="100px"/>
