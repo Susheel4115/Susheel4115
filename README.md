@@ -84,6 +84,6 @@ I'm a graduated student majoring in Computer Science with an interest in Web Dev
   <a href="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif"><img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" alt="removebg-preview" border="0"></a>
   <a href="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif"><img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="removebg-preview" border="0"></a>
   <a href="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif"><img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" alt="removebg-preview" border="0"></a>
-   <a href="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="removebg-preview" border="0"></a>
+   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="removebg-preview" border="0"/>
 </div>
 
